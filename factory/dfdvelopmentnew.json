@@ -1,0 +1,9 @@
+{
+	"name": "dfdvelopmentnew",
+	"location": "centralindia",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "d34c74b8-a941-40b0-ab2f-bbec9b1e4784",
+		"tenantId": "5d7be723-fc73-4be3-9e27-9c0b64df611f"
+	}
+}
