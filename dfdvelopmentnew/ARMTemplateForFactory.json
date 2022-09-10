@@ -19,22 +19,6 @@
 			"properties": {
 				"activities": [
 					{
-						"name": "Waitnew",
-						"type": "Wait",
-						"dependsOn": [
-							{
-								"activity": "Wait1",
-								"dependencyConditions": [
-									"Succeeded"
-								]
-							}
-						],
-						"userProperties": [],
-						"typeProperties": {
-							"waitTimeInSeconds": 2
-						}
-					},
-					{
 						"name": "Wait1",
 						"type": "Wait",
 						"dependsOn": [],
